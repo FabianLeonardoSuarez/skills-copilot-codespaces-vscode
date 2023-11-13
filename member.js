@@ -1,0 +1,30 @@
+function skillsMember() {
+  var member = document.getElementById("member");
+  var memberText = document.getElementById("memberText");
+  var memberText2 = document.getElementById("memberText2");
+  var memberText3 = document.getElementById("memberText3");
+  var memberText4 = document.getElementById("memberText4");
+  var memberText5 = document.getElementById("memberText5");
+  var memberText6 = document.getElementById("memberText6");
+  var memberText7 = document.getElementById("memberText7");
+  var memberText8 = document.getElementById("memberText8");
+  var memberText9 = document.getElementById("memberText9");
+  var memberText10 = document.getElementById("memberText10");
+  var memberText11 = document.getElementById("memberText11");
+  var memberText12 = document.getElementById("memberText12");
+  var memberText13 = document.getElementById("memberText13");
+  var memberText14 = document.getElementById("memberText14");
+  var memberText15 = document.getElementById("memberText15");
+  var memberText16 = document.getElementById("memberText16");
+  var memberText17 = document.getElementById("memberText17");
+  var memberText18 = document.getElementById("memberText18");
+  var memberText19 = document.getElementById("memberText19");
+  var memberText20 = document.getElementById("memberText20");
+  var memberText21 = document.getElementById("memberText21");
+  var memberText22 = document.getElementById("memberText22");
+  var memberText23 = document.getElementById("memberText23");
+  var memberText24 = document.getElementById("memberText24");
+  var memberText25 = document.getElementById("memberText25");
+  var memberText26 = document.getElementById("memberText26");
+  var memberText27 = document.getElementById("memberText27");
+}
